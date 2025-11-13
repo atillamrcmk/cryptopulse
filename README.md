@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CryptoPulse Logo](lib/assets/Ekran%20görüntüsü%202025-11-13%20211821.png)
+![CryptoPulse Logo](lib/assets/Ekran%20görüntüsü%202025-11-13%20212256.png")
 
 **Modern, profesyonel ve kullanıcı dostu kripto para ve döviz kuru takip uygulaması**
 
