@@ -21,19 +21,18 @@
 
 ### Ana Ekranlar
 
-| Market | Döviz Kurları | Portföy |
+
 |:------:|:-------------:|:-------:|
 | ![Market Screen](lib/assets/Ekran%20görüntüsü%202025-11-13%20211821.png) | ![Fiat Screen](lib/assets/Ekran%20görüntüsü%202025-11-13%20211921.png) | ![Portfolio Screen](lib/assets/Ekran%20görüntüsü%202025-11-13%20212256.png) |
 
 ### Detay Ekranları
 
-| Coin Detay | Favoriler | Alarmlar |
+
 |:----------:|:---------:|:--------:|
 | ![Coin Detail](lib/assets/Ekran%20görüntüsü%202025-11-13%20212310.png) | ![Favorites](lib/assets/Ekran%20görüntüsü%202025-11-13%20212322.png) | ![Alarms](lib/assets/Ekran%20görüntüsü%202025-11-13%20212338.png) |
 
 ### Grafik ve Ayarlar
 
-| Fiyat Grafiği | Ayarlar | Portföy Ekleme |
 |:-------------:|:-------:|:--------------:|
 | ![Chart](lib/assets/Ekran%20görüntüsü%202025-11-13%20212350.png) | ![Settings](lib/assets/Ekran%20görüntüsü%202025-11-13%20212403.png) | ![Add Portfolio](lib/assets/Ekran%20görüntüsü%202025-11-13%20212413.png) |
 
@@ -377,6 +376,6 @@ Sorularınız veya önerileriniz için issue açabilirsiniz.
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-Made with ❤️ using Flutter
+
 
 </div>
